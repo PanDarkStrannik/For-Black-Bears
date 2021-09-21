@@ -1,0 +1,32 @@
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ForBlackBears.exe
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ForBlackBears.deps.json
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ForBlackBears.runtimeconfig.json
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ForBlackBears.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ForBlackBears.dll
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ref\ForBlackBears.dll
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\bin\Debug\net5.0\ForBlackBears.pdb
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.csproj.AssemblyReference.cache
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.AssemblyInfo.cs
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.dll
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ref\ForBlackBears.dll
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.pdb
+C:\Users\Zver\source\repos\For Black Bears\ForBlackBears\obj\Debug\net5.0\ForBlackBears.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ForBlackBears.exe
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ForBlackBears.deps.json
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ForBlackBears.runtimeconfig.json
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ForBlackBears.runtimeconfig.dev.json
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ForBlackBears.dll
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ref\ForBlackBears.dll
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\bin\Debug\net5.0\ForBlackBears.pdb
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.dll
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ref\ForBlackBears.dll
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.pdb
+C:\Users\Zver\Desktop\Skillbox\Works\ForMobail\For-Black-Bears\obj\Debug\net5.0\ForBlackBears.genruntimeconfig.cache
